@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭 I’m currently working on AL/ML <br><br>🌱 I’m currently learning Web Development and DataBase Analysation<br><br>👯 I’m looking to collaborate on Mantan<br><br>💬 Ask me about Web and Application development<br><br>📫 How to reach me shreyakeraliya0@gmail.com<br><br>⚡ Fun fact I'm a humors extrovert
+🔭 I’m currently working on AL/ML <br>🌱 I’m currently learning Web Development and DataBase Analysation<br>👯 I’m looking to collaborate on Mantan<br>💬 Ask me about Web and Application development<br>📫 How to reach me shreyakeraliya0@gmail.com<br><br>⚡ Fun fact I'm a humors extrovert
 
 
 ## 🌐 Socials:
