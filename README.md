@@ -73,9 +73,7 @@ Daily security challenges and write-ups from Advent of Cyber.
 
 ## 🌐 Connect With Me  
 
-- 💼 LinkedIn: *(add your LinkedIn link here)*  
-- 📷 Instagram: *(optional – can remove for professional focus)*  
-
+- 💼 LinkedIn: https://www.linkedin.com/in/shreya-keraliya-5737b3279/ 
 ---
 
 > “Security is not a product, but a process.”  
